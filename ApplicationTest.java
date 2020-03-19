@@ -1,4 +1,4 @@
-package com.jay.example.caremademo1;
+package exp.com.bluetoothtest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
