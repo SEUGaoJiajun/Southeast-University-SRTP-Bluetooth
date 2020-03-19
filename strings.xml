@@ -1,10 +1,6 @@
 <resources>
-    <string name="app_name">App Of SRTP</string>
-    <string name="connect_server">服务器连接</string>
-    <string name="send_message">发送消息</string>
-    <string name="search_device">搜索蓝牙设备</string>
-    <string name="disconnect_server">关闭服务器连接</string>
-    <string name="open_bluetooth">蓝牙开启</string>
-    <string name="check_service">服务器检查</string>
-    <!--<string name="use_system_camera">调用系统照相机</string>-->
+    <string name="app_name">CaremaDemo1</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 </resources>
